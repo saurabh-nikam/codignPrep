@@ -1,2 +1,2 @@
-# codignPrep
-adding ...
+## codignPrep
+- Important Solution of Coding Problems
